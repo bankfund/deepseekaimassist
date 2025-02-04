@@ -1,19 +1,3 @@
---- Pluto Version 1.0.0 with cspeed
---- Made by Last (Packtokin on Discord)
-
---- Features:
---- - Da Hood K.O. Check (Toggleable)
---- - Wall Check
---- - Team Check
---- - Auto-Lock
---- - Vertical Offsets
---- - Resolver
---- - Smooth Aim
---- - FOV Visuals
---- - Spinning Crosshair
---- - CFrame Fly and Speed
---- - cspeed (Custom Speed Control)
-
 if not game:IsLoaded() then
 	game.Loaded:Wait()
 end
