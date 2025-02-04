@@ -1,5 +1,5 @@
 -- Universial Aim Assist
--- Totally Not Made By ChatGPT
+-- Totally Not Made By Deepseek Chinese AI
 
 local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
