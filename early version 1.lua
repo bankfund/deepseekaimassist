@@ -1,6 +1,3 @@
--- Smooth Wall Transition Aim Assist
--- By: <｜end▁of▁thinking｜>
-
 local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
 local RS = game:GetService("RunService")
